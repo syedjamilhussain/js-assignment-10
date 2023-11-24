@@ -1,0 +1,70 @@
+.h11 {
+    background-color: red;
+    text-align: center;
+    
+}
+.h22 {
+    background-color: rgb(9, 255, 0);
+    text-align: center;
+    
+}
+/* body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0; */
+}
+
+form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#toggleBtn {
+    padding: 10px;
+    cursor: pointer; }
+
+    .item-details {
+        max-height: 100px;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
+    }
+
+    #readMoreBtn {
+        cursor: pointer;
+        color: blue;
+        text-decoration: underline;
+        display: none; 
+    }
+
+    .table2 {
+        border: black 2px solid;
+        background: rgb(65, 65, 136);
+        width: auto;
+       
+    }
+   
